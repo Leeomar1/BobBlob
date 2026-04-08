@@ -42,7 +42,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Lab4.unity
     guid: 11d5ac537fa46b246b731fd828724e7f
   - enabled: 1
-    path: Assets/Scenes/Lab5.unity
+    path: Assets/Scenes/lab5.unity
     guid: 200ce0c06ef07a148861a69a2284d968
   - enabled: 1
     path: Assets/Scenes/Hallway2.unity
